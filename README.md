@@ -5,7 +5,7 @@
 <head>
 <style>
 body  {
-  background-image: url(https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif);
+  background-image: url(https://images.unsplash.com/photo-1523693749893-1c0458ede160?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGRhcmslMjBzcGFjZXxlbnwwfHwwfHw%3D&w=1000&q=80);
   background-color: #FFFFFF;
 }
 </style>
