@@ -1,20 +1,20 @@
 //# cole-bailey.github.io
 //Working on a website profile for myself.
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
 body  {
-  background-image: url(https://cam.scmagazine.com/wp-content/uploads/sites/6/2020/07/IT-Service-Management-vs.-Cybersecurity-Asset-Management-750-x-420.png);
+  background-image: url(https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif);
   background-color: #cccccc;
 }
 </style>
 </head>
 <body>
 
-<h1>The background-image </h1>
+<h1>Welcum to my site </h1>
 
-<p> just wanna diesssssssss
+<h2> For shits and giggles right now
 
 </body>
 </html>
