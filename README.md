@@ -13,9 +13,9 @@ body  {
 <body>
 
 <h1>Welcum to my site </h1>
-  text-color: #FFFFFF;
+  </style> text-color: #FFFFFF;
 <h2> For shits and giggles right now
-  text-color: #FFFFFF;
+  </style>text-color: #FFFFFF;
 </body>
 </html>
 
