@@ -1,13 +1,11 @@
 cole-bailey.github.io
-Working on a website profile for myself.
-
 <html>
 
 <head>
- <h1 style="color:white:">Welcome to my site </h1>
-<p style="color:white;">For poops and giggles right now.</p> 
+ <h1 style="color:black;">Welcome to my site! </h1>
+<p1 style="color:black;">For poops and giggles right now, but working on a lil website profile for myself.</p1> 
  <style>
 body  {
-  background-color: #cccccc;
+  background-color: #808080;
 </style>
 
